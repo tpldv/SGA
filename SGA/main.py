@@ -144,3 +144,6 @@ def menu_matriculas():
 
 if __name__ == "__main__":
     menu_principal()
+
+# Desenvolvido por Túlio Vargas (https://www.linkedin.com/in/t%C3%BAlio-prot%C3%A1sio-573232277/).
+
